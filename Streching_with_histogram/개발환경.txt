@@ -1,0 +1,4 @@
+visual studio 2019
+SDK 10.0
+MFC Dialog기반
+문자집합 멀티바이트
