@@ -16,3 +16,6 @@
  2)histogram equalize
  3)Basic Contrast Stretching
  4)Ends-in Contrast Stretching
+
+
+only work 8bit-bitmap img 
